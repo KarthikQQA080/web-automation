@@ -1,0 +1,19 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ (if used by team)
+.idea/
+*.iml
+
+# TestNG Reports
+test-output/
+
+# OS files
+.DS_Store
+Thumbs.db
